@@ -6,6 +6,8 @@ from selenium.webdriver.common.by import By
 import time
 
 
+# Download Chrome webdriver from: https://chromedriver.chromium.org/downloads and put it under the same directory
+
 username = "<Your email>"
 password = "<Your password>"
 # How many days in advance of your current booking you are willing to switch
